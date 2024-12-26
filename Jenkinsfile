@@ -5,7 +5,7 @@ pipeline {
         stage('Checkout Code') {
             steps {
                 echo 'Checking out code...'
-                checkout scm
+                https://github.com/srikarimmidisetty/K1.git
             }
         }
 
